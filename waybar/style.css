@@ -28,6 +28,10 @@ tooltip {
     border-radius: 24px;
 }
 
+#workspaces {
+    margin: 0px 5px;
+}
+
 #workspaces button {
     transition: all 0.1s linear;
     border-radius: 16px;
@@ -46,12 +50,17 @@ tooltip {
 }
 
 #clock {
+    margin: 0px 15px;
 }
 
 #pulseaudio {
-    margin: 0px 0px;
+    margin-right: 15px;
 }
 
 #tray {
     margin-right: 15;
+}
+
+#backlight {
+    margin-right: 15px;
 }
